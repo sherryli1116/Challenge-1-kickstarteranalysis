@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# An Analysis of Kickstarter Funding Campaigns
 ## Overview of Project
 Throughout this project, we wanted to help Louise, an upcoming playwright, filter out the successful funding campaigns in order to help funding her new coming play *Fever*. We were able to generalize data through more than 4000 Kickstarter campaigns and by looking at the "theater" category and "play" subcategory both independently. Last, we categorized the data by different spending levels and time frames to determine the amount of money she should set as her fundraising goal and also the best time to launch her campaign. 
 ### Purpose
